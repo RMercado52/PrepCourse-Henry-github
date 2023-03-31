@@ -1,2 +1,1 @@
-# PrepCourse-Henry-github
-Repositorio de prueba del modulo 2 de PrepCourse Henry
+Este proyecto es una prueba de como crear y editar un repositorio GITHUB
